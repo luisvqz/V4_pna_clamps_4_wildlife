@@ -1,0 +1,45 @@
+#SampleID	short_species	species	original	clamp
+140P	Bat	L. yerbabuenae	140	yes
+141P	Bat	L. yerbabuenae	141	yes
+142P	Bat	L. yerbabuenae	142	yes
+143P	Bat	L. yerbabuenae	143	yes
+144P	Bat	L. yerbabuenae	144	yes
+145P	Bat	L. yerbabuenae	145	yes
+181P	Bat	L. yerbabuenae	181	yes
+195P	Bat	L. yerbabuenae	195	yes
+140	Bat	L. yerbabuenae	140	no
+141	Bat	L. yerbabuenae	141	no
+142	Bat	L. yerbabuenae	142	no
+143	Bat	L. yerbabuenae	143	no
+144	Bat	L. yerbabuenae	144	no
+145	Bat	L. yerbabuenae	145	no
+181	Bat	L. yerbabuenae	181	no
+195	Bat	L. yerbabuenae	195	no
+143114-clamped	Bird	M.parvulus	143114	yes
+143120-clamped	Bird	M.parvulus	143120	yes
+143124-clamped	Bird	M.parvulus	143124	yes
+143170-clamped	Bird	M.parvulus	143170	yes
+143185-clamped	Bird	M.parvulus	143185	yes
+143193-clamped	Bird	M.parvulus	143193	yes
+143195-clamped	Bird	M.parvulus	143195	yes
+143199-clamped	Bird	M.parvulus	143199	yes
+143356-clamped	Bird	M.parvulus	143356	yes
+143358-clamped	Bird	M.parvulus	143358	yes
+143114	Bird	M.parvulus	143114	no
+143120	Bird	M.parvulus	143120	no
+143124	Bird	M.parvulus	143124	no
+143170	Bird	M.parvulus	143170	no
+143185	Bird	M.parvulus	143185	no
+143193	Bird	M.parvulus	143193	no
+143195	Bird	M.parvulus	143195	no
+143199	Bird	M.parvulus	143199	no
+143356	Bird	M.parvulus	143356	no
+143358	Bird	M.parvulus	143358	no
+negmet0041		Negative	neg-met-0041	yes
+Posmet0041		zymo	pos-met-0041	yes
+Negmet0042		Negative	neg-met-0042	no
+Posmet0042		zymo	pos-met-0042	no
+Negmet005		Negative	neg-met-005	yes
+Posmet005		zymo	pos-met-005	yes
+Negmet006		Negative	neg-met-006	no
+Posmet006		zymo	pos-met-006	no
